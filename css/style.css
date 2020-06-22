@@ -88,7 +88,7 @@
       height: 20rem;
       width: 20rem;
       transform: rotateZ(-31deg);
-      background: url("/img/nordwood-themes-kRNZiGKtz48-unsplash@2x.png");
+      background: url("../img/nordwood-themes-kRNZiGKtz48-unsplash@2x.png");
       background-position: center;
       background-size: cover; }
     .design2_3-pattern {
@@ -98,7 +98,7 @@
       height: 13rem;
       width: 14rem;
       transform: rotateZ(-89deg);
-      background: url("/img/Component 6 – 1.png");
+      background: url("../img/Component 6 – 1.png");
       background-position: center;
       background-size: cover; }
 
